@@ -45,31 +45,40 @@
 特にお気に入りのプラグインは太字
 
 - Aegean Music : Pitchproof
+- A.O.M. : Triple Fader
+  > 幅を60dBにしてプラマイ120dBの急峻なボリュームオートメーションを書いて疑似ミュートをしています
 - ArtsAcoustic : **ArtsAcousticReverb**
   > クソデカリバーブ
 - Auburn Sounds : **Graillon 2**
-  > コレよりアタックの遅延がなくて自然な感じのピッチシフターあったら教えてください(Snareのビルドアップに使いたい)
+  > コレより遅延がなくて自然な感じのピッチシフターあったら教えてください(Snareのビルドアップに使いたい)
 - Audio Assault : The Punch
 - Audio Damage : RoughRider(無印,3)
 - Cableguys : ShaperBox, PanCake
   - ShaperBox : Time
+    > 変な音作り用
 - Camel Audio : CamelCrusher
   > ちゃんとお金払わせて欲しい
 - Dada Life : Endless Smile, Sausage Fattener
 - Dawesome Audio : Love
 - Devious Machines : **Duck**
+  > SidechainDuckingはコレがないと生きていけない
 - Dotec-Audio : DeeMax, DeeMute, DeePanpot
 - Eventide : Blackhole
 - Fabfilter : **Pro-Q3**, C2, L2, MB, Saturn, Timeless
+  > EQはとりあえず初手Pro-Q3がち
 - FX23 : **PSYSCOPE**
+  > これがないとローエンドのミックスが出来ない気がする。視覚的モチベにも
 - Illformed : Glitch 2
 - Infected Mushroom : Wider
-- iZotope : Ozone(Adv), Neutron(Adv), Vocal Doubler, VocalSynth, Vinyl, Trash2, **Ozone Imager**
+- iZotope : Ozone(Adv), Neutron(Adv), Vocal Doubler, VocalSynth, Vinyl, Trash2, **Ozone Imager2**
 - Kilohearts : Convolver
   - Kilohearts Essentials : Bitcrush, FrequencyShifter, **Gain**, PitchShifter, Resonator, **Reverser**, TapeStop
+    > Gainを%表示モードで完全にミュートしたいときなどに使います
 - Letimix : **GainMatch**
+  > 繊細なミックスするときは必需品
 - MeldaProduction : MAutoAlign, **MWaveShaper**
 - Minimal : Rift filter Lite
+  > 派手なフィルターでFX的な音作りをしたいときに
 - Native Instruments : Phasis, **Raum**
 - PechinegFX : Pechneg Tremolo
 - Plugin Alliance : 
@@ -80,15 +89,22 @@
 - Softube : Saturation Knob
 - Sonnox : **Claro**, **Oxford Inflator**
 - Speechrezz : Rezonator
+  > 変な音作り用
 - Steinberg : Grungelizer, Loopmash, 
 - Vallhalla DSP : **VintageVerb**, **Supermassive**, SpaceModulator
+  > - 巨大じゃない使い勝手の良いReverbはほぼ全部VVV
+  > - Delayは初手ほぼSupermassive
 - Voxengo : CurveEQ
+  > EQとしてではなくスペクトラムアナライザー・モニターとしてマスターに置いてます
 - W.A Production : Dodge Pro, KSHMR Essential Kick, Pumper
-- Waves : **API-2500**, **CLA-2A**, Doubler, H-Delay, **IMPusher**, Vitamin, L2, RBass, Rcomp, RVox
+- Waves : **API-2500**, **CLA-2A**, Doubler, H-Delay, **IMPusher**, Vitamin, L2, RBass, Rcomp, RVox, VEQ4
+  > トラックのバスにはだいたいAPIかCLAが刺さっている
 - Xfer Records : OTT
   - SerumFX : Filter, Distortion
+    > 派手なFilterやDistortionで音作りとして使う
 - XLN Audio : RC-20 Retro Color
 - Zekete Inc. : Le Phonk
+- ？？？(個人開発など) : **Mz_TapeStop**
 
 -----
 
