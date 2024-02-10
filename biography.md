@@ -93,33 +93,38 @@
 -----
 
 ## Contact / Links
-- Twitter : https://twitter.com/Zenaka_ 
+- Twitter(~~現𝕏~~) : [https://twitter.com/Zenaka_](https://twitter.com/Zenaka_)
   > 一番反応が早いです
 
-- Soundcloud : https://soundcloud.com/zenaka 
+- Bluesky : [https://bsky.app/profile/z7k.bsky.social](https://bsky.app/profile/z7k.bsky.social)
+  > 2024年冬の時点ではそこそこみてます。𝕏が終わったらこっち行きそう
+
+- Soundcloud : [https://soundcloud.com/zenaka](https://soundcloud.com/zenaka)
   > 曲が聞けます (こちらのDMも見ています)
 
-- NicoNico : https://www.nicovideo.jp/mylist/62090962 
+- NicoNico : [https://www.nicovideo.jp/mylist/62090962](https://www.nicovideo.jp/mylist/62090962)
   > 動画が見れます
 
-- Youtube : https://www.youtube.com/channel/UCxHgrxORobG8SufN2O0N3ag
+- Youtube : [https://www.youtube.com/channel/UCxHgrxORobG8SufN2O0N3ag](https://www.youtube.com/channel/UCxHgrxORobG8SufN2O0N3ag)
   > 動画が見れますその２
 
-- Discord :  Z_#7323 → Username : z_n_k
+- Discord : ~~Z_#7323~~ → Username : z_n_k
   > 通話はお気軽にどうぞ(誰だかわからない場合応答しないこともあります) 
 
-- Tumblr : ここです
-  > ブログという名の散文を書き綴ります
+- Tumblr : [https://z-n-k.tumblr.com/](https://z-n-k.tumblr.com/)
+  > ブログという名の散文を~~書き綴ります~~書いてました
+  > <br>Tumblrの仕様変更でコンテンツの埋め込みが出来なくなったことやテキストベース以外ではキレイに反映されない等の問題からGithub pagesに移行しました
 
-- Misskey : https://misskey.io/users/9bihp7g1i5 
-  - https://misskey.io/@znk
+- Misskey : [https://misskey.io/users/9bihp7g1i5](https://misskey.io/users/9bihp7g1i5)
+  - [https://misskey.io/@znk](https://misskey.io/@znk)
   > 避難所のつもりなのであんまり使ってないです(多分ここから連絡した場合はほぼ気付きません)
 
-メールアドレスは公開しておりません。
-御用の方はTwitter,SoundCloud,DiscordなどのDMにて御連絡ください
+
+メールアドレスは公開しておりません。<br>
+御用の方は Twitter, SoundCloud, Discord などのDMにて御連絡ください
 
 -----
 
 ## Others
-- つくったやつ簡易まとめのやつ
-  - [Twitter]ぜんぶ → https://twitter.com/i/events/1377599216097239043
+- つくったもの簡易まとめのやつ
+  - [Twitterのモーメント(更新終了)](https://twitter.com/i/events/1377599216097239043)
