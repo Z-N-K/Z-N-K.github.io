@@ -5,6 +5,8 @@
 - Role : 主にDTMをしています。ただのオタクです。
 - Japan
 
+-----
+
 ## 作業環境
 - CPU :  Core i7-7700K BX80677I77700K
 - マザーボード :  STRIX Z270F GAMING
@@ -20,40 +22,75 @@
 - DAW : Cubase Pro 8
   - → (2019) 30周年セール時に新規購入で10にアプデしました
 
+-----
+
 ### よく使う音源
 デベロッパー名昇順で記載
 
-- Air Music Technology : Xpand! 2
+- Air Music Technology : Xpand!2
 - KORG : M1
-- KV331 Audio : Synthmaster 2 , One (∈Everything)
+- KV331 Audio : Synthmaster2 , SynthmasterOne (∈Everything)
 - Lennar Digital : Sylenth1
 - Reveal Sound : Spire
 - Rob Papen : RAW-Kick
 - Steinberg : Halion Sonic SE
-- Toontrack Music : EZ Keys exp{Deam Machine / Electric / Grand / Uplight}
+- Toontrack Music : EZ Keys
+  - exp{Deam Machine / Electric / Grand / Uplight}
 - Xfer Records : Serum
+
+-----
 
 ### よく使うプラグイン
 デベロッパー名昇順で記載
+特にお気に入りのプラグインは太字
 
-- Armando Montanez : SimpleSide
+- Aegean Music : Pitchproof
+- ArtsAcoustic : **ArtsAcousticReverb**
+  > クソデカリバーブ
+- Auburn Sounds : **Graillon 2**
+  > コレよりアタックの遅延がなくて自然な感じのピッチシフターあったら教えてください(Snareのビルドアップに使いたい)
 - Audio Assault : The Punch
-- Audio Damage : RoughRider(無印)
-- Camel Audio : Camel Crusher
-- Dada Life : Endless Smile, Sausage Fattner
-- Dotec-Audio : Deemax, DeePanpot
+- Audio Damage : RoughRider(無印,3)
+- Cableguys : ShaperBox, PanCake
+  - ShaperBox : Time
+- Camel Audio : CamelCrusher
+  > ちゃんとお金払わせて欲しい
+- Dada Life : Endless Smile, Sausage Fattener
+- Dawesome Audio : Love
+- Devious Machines : **Duck**
+- Dotec-Audio : DeeMax, DeeMute, DeePanpot
 - Eventide : Blackhole
-- Fabfilter : Pro-Q3, C2, L2, MB (∈Mastering Bundle)
-- FX23 : PSYSCOPE
+- Fabfilter : **Pro-Q3**, C2, L2, MB, Saturn, Timeless
+- FX23 : **PSYSCOPE**
 - Illformed : Glitch 2
-- iZotope : Ozone 8(Adv), Neutron 3(Adv), Vocal Doubler, VocalSynth,  Vinyl, Trash2
+- Infected Mushroom : Wider
+- iZotope : Ozone(Adv), Neutron(Adv), Vocal Doubler, VocalSynth, Vinyl, Trash2, **Ozone Imager**
+- Kilohearts : Convolver
+  - Kilohearts Essentials : Bitcrush, FrequencyShifter, **Gain**, PitchShifter, Resonator, **Reverser**, TapeStop
+- Letimix : **GainMatch**
+- MeldaProduction : MAutoAlign, **MWaveShaper**
+- Minimal : Rift filter Lite
+- Native Instruments : Phasis, **Raum**
+- PechinegFX : Pechneg Tremolo
+- Plugin Alliance : 
+  - Brainworx : bx_masterdesk, bx_subsynth
+- Sixth Sample : Cramit
+- Slate Digital : Fresh Air, HeartWave
 - SocaLabs : OscilloScope
-- Steinberg : Loopmash, 
-- Vallhalla DSP : Vallhalla VintageVerb, Supermassive
-- Voxengo : Curve EQ
-- W.A Production : Pumper, Dodge Pro
-- Waves : Doubler, H-Delay, Vitamin, L2, RBass, REQ, Rcomp, RVox
+- Softube : Saturation Knob
+- Sonnox : **Claro**, **Oxford Inflator**
+- Speechrezz : Rezonator
+- Steinberg : Grungelizer, Loopmash, 
+- Vallhalla DSP : **VintageVerb**, **Supermassive**, SpaceModulator
+- Voxengo : CurveEQ
+- W.A Production : Dodge Pro, KSHMR Essential Kick, Pumper
+- Waves : **API-2500**, **CLA-2A**, Doubler, H-Delay, **IMPusher**, Vitamin, L2, RBass, Rcomp, RVox
 - Xfer Records : OTT
+  - SerumFX : Filter, Distortion
+- XLN Audio : RC-20 Retro Color
+- Zekete Inc. : Le Phonk
+
+-----
 
 ## Contact / Links
 - Twitter : https://twitter.com/Zenaka_ 
@@ -80,6 +117,8 @@
 
 メールアドレスは公開しておりません。
 御用の方はTwitter,SoundCloud,DiscordなどのDMにて御連絡ください
+
+-----
 
 ## Others
 - つくったやつ簡易まとめのやつ
