@@ -2,7 +2,7 @@
 
 仮組みなので現在工事中
 
-BIOGRAPHY
+[BIOGRAPHY](/biography.md)
 
 Twitter
 
