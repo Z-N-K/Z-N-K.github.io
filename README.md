@@ -6,7 +6,7 @@
 
 ## きじ
 - 2023
-  - [Works](/2023-works.md)
+  - [Works](/works/2023-works.md)
 
 ## Twitter
 
