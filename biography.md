@@ -115,8 +115,15 @@
 - Bluesky : [https://bsky.app/profile/z7k.bsky.social](https://bsky.app/profile/z7k.bsky.social)
   > 2024年冬の時点ではそこそこみてます。𝕏が終わったらこっち行きそう
 
-- Soundcloud : [https://soundcloud.com/zenaka](https://soundcloud.com/zenaka)
-  > 曲が聞けます (こちらのDMも見ています)
+- Soundcloud : 
+  - [https://soundcloud.com/zenaka](https://soundcloud.com/zenaka)
+    > Original/昔の曲が聞けます (こちらはDM反応します)
+  - [https://soundcloud.com/kanaze](https://soundcloud.com/kanaze)
+    > Remix/Bootlegの曲が聞けます
+  - [https://soundcloud.com/goodloser](https://soundcloud.com/goodloser)
+    > 公募落ち/雑/Mushupなどの曲を投稿する予定です
+  - [https://soundcloud.com/sc_rm](https://soundcloud.com/sc_rm)
+    > アイドルマスターシャイニーカラーズのアレンジ/リミックス/ブートレグのコンピレーションを主催しています
 
 - NicoNico : [https://www.nicovideo.jp/mylist/62090962](https://www.nicovideo.jp/mylist/62090962)
   > 動画が見れます
