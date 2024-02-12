@@ -199,7 +199,7 @@ UpliftingなTranceの楽曲制作もたまにやってる人間なので、こ�
 ツーアウトですよツーアウト！！どうしますコイツ！？処す！？？<br>
 もっと回レ雪月花みたいなブート作りやすい曲構成のアンセムください！！<br>
 
-あと原曲のBPM測るときにイントロとアウトロのPianoのアタック部分をグリッドに合わせて測ってみたところ、どうやら原曲のBPMが $172$ ではなく $171.99$ と判明した時は大暴れです<br>
+あと原曲のBPM測るときにイントロとアウトロのPianoのアタック部分をグリッドに合わせて測ってみたところ、どうやら原曲のBPMが 172 ではなく 171.99 と判明した時は大暴れです<br>
 L('ω')┘ 三 └('ω')」ｳｵｵｵ<br>
 
 しかもベストアルバムに新録された26colors版では更にGW01のインスト音源と合わせてもBPMが合わない謎仕様となっています！！なんでや！！<br>
@@ -406,10 +406,10 @@ UK Dubstepとかの亜種になるんですかね…？当時何を思ってあ�
 
 
 遂に謎の力が発生してナンバリング03にして早くもその息の根を止められたHyperRaveシリーズですが、オタク(いろなちゃん)がHR03の曲をまとめてくれていたので追悼しながら他の方の曲も聞いていってあげて下さい。
-<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1667411699&color=%23080909&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/squid_chan" title="Squid_chan" target="_blank" style="color: #cccccc; text-decoration: none;">Squid_chan</a> · <a href="https://soundcloud.com/squid_chan/sets/hyperrave03" title="HyperRave03" target="_blank" style="color: #cccccc; text-decoration: none;">HyperRave03</a></div>
-
 > ひとつだけお願いがあります<br>
-> いなくなってしまった人たちのこと、時々でいいから…… 思い出してください
+> いなくなってしまった人たちのこと、時々でいいから……思い出してください
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1667411699&color=%23080909&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/squid_chan" title="Squid_chan" target="_blank" style="color: #cccccc; text-decoration: none;">Squid_chan</a> · <a href="https://soundcloud.com/squid_chan/sets/hyperrave03" title="HyperRave03" target="_blank" style="color: #cccccc; text-decoration: none;">HyperRave03</a></div>
 
 
 【おまけ】 過去一カスみたいな宣伝
@@ -460,12 +460,12 @@ Original
 リリース元レーベルであるSummerMelodyの2023 Years Bestのmixに入っております！<br>
 ﾊﾟﾁﾊﾟﾁﾊﾟﾁ〜(告知動画あるある)<br>
 こちら年が明けて2024年、2024/01/04にリリースされます！<br>
-→ https://summermelody.lnk.to/BestOf2023
+→ [https://summermelody.lnk.to/BestOf2023](https://summermelody.lnk.to/BestOf2023)
 
 マジ？幻想(ユメ)じゃねえよな……?<br>
 Mixed音源なので流石に購入してくださいとは中々言いにくいのですが(Extend尺でしか買いたくない派)、是非ストリーミングサービス等で聞いていただけると幸いです！！<br>
 
-同mixには国内Prog界隈からも2bnsnさんやShion Hinanoさんなどもおり、ｳﾜｧｵとなりつつも、1人でまだリリースされていない現段階ではほんまかいな(半信半疑)となっているのでリリースされましたら是非とも聞いてくださいまし！<br>
+同mixには国内Prog界隈からも2bnsnさんやShion Hinanoさんなどもおり、ｳﾜｧｫ……となりつつも、1人でまだリリースされていない現段階ではほんまかいな(半信半疑)となっているのでリリースされましたら是非とも聞いてくださいまし！<br>
 
 
 ――――――――――――――――――――
@@ -486,7 +486,7 @@ Mixed音源なので流石に購入してくださいとは中々言いにくい
 まずはBBKK10周年めでたい！<br>
 ……いや10周年！？10周年は流石にうせやろ？<br>
 いうてもまだ5年とか……<br>
-でもこないだ $SOUND{\ }VOLTEX$ も10周年いうてたもんな……<br>
+でもこないだ *SOUND VOLTEX* も10周年いうてたもんな……<br>
 ほなそうか……<br>
 
 BBKKの曲の特徴を自分の中で噛み砕いたときに [特徴的な声ネタ] × [印象的なメロディ] × [文字通りのKickとBass] だと思っていて<br>
